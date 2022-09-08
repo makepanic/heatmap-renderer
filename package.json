@@ -1,0 +1,7 @@
+{
+  "name": "heatmap-renderer-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

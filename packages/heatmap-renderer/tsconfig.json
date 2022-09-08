@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": ["esnext", "dom"],
+    "declaration": true,
+    "moduleResolution": "node",
+    "declarationDir": "dist",
+    "sourceMap": true,
+    "strict": true
+  },
+  "include": [
+    "index.ts",
+    "src/**/*.ts"
+  ]
+}
